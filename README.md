@@ -1,6 +1,8 @@
-### Hi there 👋
+![snake gif](https://github.com/raaang/raaang/blob/output/github-contribution-grid-snake.svg)
 
 <!--
+### Hi there 👋
+
 **raaang/raaang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
